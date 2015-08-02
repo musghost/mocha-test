@@ -1,0 +1,17 @@
+{
+  "name": "mocha-tests",
+  "version": "1.0.0",
+  "description": "Testing with mocha for a CI flow",
+  "main": "test.js",
+  "dependencies": {
+    "mocha-junit-reporter": "^1.6.1"
+  },
+  "devDependencies": {
+    "mocha-junit-reporter": "^1.6.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andres Cidel",
+  "license": "ISC"
+}
